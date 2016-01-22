@@ -4,6 +4,5 @@
 # but you can also edit it by hand.
 
 standard-app-packages
-bootstrap
-accounts-ui
-accounts-password
+mizzao:bootstrap-3
+u2622:persistent-session

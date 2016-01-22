@@ -2,3 +2,13 @@
 body {
     padding: 60px;
 }
+
+.chat {
+	list-style: none;
+	padding: 0px;
+}
+
+#messages {
+	min-height: 300px;
+	max-height: 300px;
+}
