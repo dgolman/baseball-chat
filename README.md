@@ -1,15 +1,8 @@
-MeteorChat
+Baseball Chat
 ==========
 
-Simple chat application with different chat-rooms built on the [Meteor](http://www.meteor.com/) JavaScript Platform.
+Simple chat application for entreprenuers to vent and listen to help others through difficult startup times.
 
-Not much functionality, only to demonstrate how _simple_ it is to set up a reactive app using Meteor.
+Application is deployed at <http://baseballchat.meteor.com>
 
-Used add-on packages (for convenience only!):
-
-* `bootstrap` for beautifying the UI
-* `accounts-password` and `accounts-ui` for having the user authenticated right out of the box
-
-Application is deployed at <http://chat.n-k.de>
-
-Feel free to fork/copy/whatever...
+Feel free to contribute in anyway. Create an issue, fork and pull request, etc.
